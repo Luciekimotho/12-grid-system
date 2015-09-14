@@ -1,9 +1,30 @@
 .col4{
-    width: 33.3%;
+    width: 31%;
     display: inline-block;
     float: left;
 }
 
 .col8{
-    width: 66.6%;
+    width: 65%;
+    display: inline-block;
+}
+
+.col6{
+   width: 48%;
+    display: inline-block;
+    float: left;
+}
+
+.col2{
+   width: 14%;
+    display: inline-block;
+}
+
+.col3{
+    width: 22.5%;
+    display: inline-block;
+}
+
+.col12{
+width: 99%;
 }
